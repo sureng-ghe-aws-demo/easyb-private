@@ -1,0 +1,32 @@
+{
+  "scanSettings": {
+    "configMode": "AUTO",
+    "configExternalURL": "",
+    "projectToken": "",
+    "baseBranches": []
+  },
+  "checkRunSettings": {
+    "vulnerableCheckRunConclusionLevel": "failure",
+    "displayMode": "diff",
+    "useMendCheckNames": true
+  },
+  "issueSettings": {
+    "minSeverityLevel": "LOW",
+    "issueType": "DEPENDENCY"
+  },
+  "remediateSettings": {
+    "workflowRules": {
+      "enabled": true
+    }
+  },
+  "hostRules": [
+    {
+    "matchHost": "https://mend.jfrog.io/artifactory/jfrogdemo-mvn-dev-local",
+    "hostType": "maven",
+    "username": "mend",
+    "encrypted": {
+        "password": "wcBMA8xOaBJvzJNbAQf+OLsBQRBfx56LWnWvnJgAWVwAXQtCR9s1mevcOC6Iz4dgND0eO8O6rINtP8txZx+Ro2/MWPcxw7FGXuJY7Np9QqLa9JQlHtLAzohdEO4I9WXsb+f7tvS281DNIPZQwldx28NJSpfOlS4tcM1z5gvvH1OX9IFsJepcblwxY5z6Z7E3DYLRIrXi83141h6+25/W7sQ+kNDt9nU87+sOcdW0cJxEmcyZIPwFUsQX2hWQH/5AeoEZ8nHzwTdi2kS/uG4NEz7g09lhWIyijrBlOuWjzWeaJAWBeExerZKdcqp426XRV+ylQIj7kDWbL74vg4u6vBA5M66daxK6+NchY1Va39JkAUJwTuRcmct0JU2LV6yIndN5FtAKFdj1A3P/3oNlJ4syprPFvn0YhrWfaJHs+niizPM044M+m58Ds05eqkkDTRmDmdFgUsmCNjIsNuYoc7DMWLRtV+Mn6O1qoc6Q+i/oTczzHg"
+        }
+    }
+]
+}
