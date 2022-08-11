@@ -22,7 +22,7 @@
   },
   "hostRules": [
     {
-    "matchHost": "https://mendx.jfrog.io/artifactory/jfrogdemo-mvn-dev-local",
+    "matchHost": "https://mend.jfrog.io/artifactory/jfrogdemo-mvn-dev-local",
     "hostType": "maven",
     "username": "mend2",
     "encrypted": {
