@@ -6,8 +6,8 @@ on:
 
 jobs:
   build:
-   runs-on: ubuntu-latest
-   env:
+    runs-on: ubuntu-latest
+    env:
      JFROG_USER: ${{secrets.JFROG_USER}}
      JFROG_PASS: ${{secrets.JFROG_PASS}}
 
