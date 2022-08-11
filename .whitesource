@@ -24,9 +24,9 @@
     {
     "matchHost": "https://mend.jfrog.io/artifactory/jfrogdemo-mvn-dev-local",
     "hostType": "maven",
-    "username": "sureng.reddy@gmail.com",
+    "username": "mend",
     "encrypted": {
-        "password": "wcBMA8xOaBJvzJNbAQf/QmKSNTua2AAKoYEBZ+QvhVK3YE7AWuP9F8PdJDuVmGhKe1hIojC2NOILaugPckqEuh0WfFC1AyYUhbJyUmVYaWEDzcx71y9DeV9LAtJ/Sl/K7sM0Gbc9qO1Y2+v7FDf6h3zkEMRQdXbfAUkBynhWjo9FwpIAxSefCAoQFJIxVd9Zqihit02FaXgGSKoc5ZUYcuYRQvPGFmvvIJ2npw6CEXHug9NkdQmKMme1Nuw08Fb48HAtH/EMlkT9j3V1gAGE+qbvATurQtqX8TvpMuFGxWTkbAJpK2ggmVItfMWHUwlEivLoA7W8HRoIKHjc8nF1k25sZDEIMl9e24kXgoaEM9JlAcv9tsWFv4ob04Idzv7TGnzNHWfYw328EsLINaazpg7Y6HOYfE4gAhDXz+ApALHedPNCYFVtHcn4y7VfCNjbXPMkjmec9/JOMqec32NfyyYKCOg2DsdihunYiesTqr2GCA6zUIY"
+        "password": "wcBMA8xOaBJvzJNbAQf/QOEnElRqZQO+vTFLGc75dTHjnyIPEOU0RLTmoW9IJmjkjO87aJnOu5Us/w3w3FWXVb1nn+5mPX9MPmQwexPChmHHKSHvI0TUfM3EwS/QNXvF7KO5aqvxN2V6VmF/xEfCa/fa7liknjm7hGsPgfvy3othwSVNVtm7MNY2lR4+bFXurp2C6AgOfdo9nBzrvKsjajHIc2HcDT2xA5/zfUZFpJL9uHK8lQOdwwenIgUIR3VTvihFMvZ1fVPNZHKK8mRByKLJtFrP14Z8hpPtKjmNzBNa3ByAE4WI3ODb9ZhmqKZuKbawI9oBe/6POZJ7sua+3X3qiwNEZv52I1x/eFcKgdJkAbLytnHn1N4+uSQWRo95ue7gUwAxcku1CY9ypOBJ9Pj/a8wYE7bh/J4ouSNEWqhloCJTvFtgw1Ab1os4+MDewSvxGlMyrxVdk+XWPnltS5FZO251t7oME/sdHWTHUp9ZzJsKKw"
         }
      }
   ]
